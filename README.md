@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Señor ete sech
+# 👋 ¡Hola! Soy Christian
 
 Soy un Ingeniero Civil en Computación 👨‍💻 egresado, con más de 1.5 años de experiencia profesional en desarrollo de software y análisis de datos. Actualmente trabajo en un equipo municipal de mejora continua, donde disfruto transformar ideas en soluciones reales: desde automatizaciones ⚙️ hasta plataformas web y análisis descriptivos 📊.
 
