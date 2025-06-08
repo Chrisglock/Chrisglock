@@ -11,7 +11,7 @@ const stack = {
   frontend: ["React", "React Router", "Next.js", "TailwindCSS"],
   backend: ["Node.js", "Express", "Prisma", "PostgreSQL", "MongoDB"],
   scripting_y_datos: ["Python", "Pandas", "Jupyter", "Plotly"],
-  devOps_basics: ["Vercel", "Render", "GitHub Actions"]
+    devOps_basics: ["Vercel", "Aws", "GitHub Actions"]
 }
 ```
 
@@ -20,7 +20,6 @@ const stack = {
 ## 🎯 Objetivo personal
 
 > **Mantenerse al día con las tecnologías más útiles y relevantes.**  
-> ¡Porque en tech, el que parpadea... se actualiza con `npm audit fix`! 🧠✨
 
 ---
 
@@ -49,11 +48,4 @@ const stack = {
 
 ---
 
-## 🤖 Un dato random
-
-> "Entre escribir scripts y hacer análisis... también sé hacer un buen meme de programadores."  
-> &nbsp;&nbsp;&nbsp;&nbsp;– probablemente yo, depurando a las 3 AM 🐛☕️
-
----
-
-Gracias por pasar por aquí. ¡Explora, dale ⭐ a lo que te guste y vuelve pronto! 😄
+Gracias por pasar por aquí y vuelve pronto! 😄
