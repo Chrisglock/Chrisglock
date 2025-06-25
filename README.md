@@ -19,7 +19,8 @@ const stack = {
 
 ## 🎯 Objetivo personal
 
-> **Mantenerse al día con las tecnologías más útiles y relevantes.**  
+> **Mantenerse al día con las tecnologías más útiles y relevantes.**
+>  *Encanto por el ML, LLMS e AI en general.*
 
 ---
 
@@ -44,7 +45,6 @@ const stack = {
 
 - ✨ Portafolio: *(en construcción)*
 - 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/christian-ramos-baeza-2b6697239/)
-- 💡 ¿Quieres ver algo cool? ¡Mira mis repositorios destacados!
 
 ---
 
